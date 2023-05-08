@@ -130,4 +130,7 @@ i{
     .motif i{
         width: 45px;
     }
+    i{
+        padding-right: 10px ;
+    }
 }
