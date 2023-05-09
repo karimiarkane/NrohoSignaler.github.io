@@ -50,10 +50,10 @@ form h2{
     text-align: center;
     font-weight: 900;
     margin-top: 30px;
-    color: #9063cd;
+    color : #202e59
 }
 .inputfield {
-    border: 2px solid #9063cd;
+    border: 2px solid #202e59;
     display: flex;
     align-items: center;
     height: 70px;
@@ -74,25 +74,29 @@ textarea{
     width: 222.50px;
     height: 100%;
 }
+.motif{
+    height: 140px;
+}
 i{
   /*  border: 2px solid;*/
     width: 65px;
     border-right: 2px solid;
     font-size: 25px;
     text-align: center;
-    color: #9063cd;
+    color : #202e59
 }
 
 
 .btn{
     width: 100%;
-    border: 2px solid #9063cd ;
+    border: 2px solid #202e59 ;
     border-radius: 6px;
     cursor: pointer;
     color: #fff;
-    background-color: #9063cd;
+    background-color : #202e59;
     padding: 15px;
     letter-spacing: 1px;
+    margin-bottom: 10px;
 }
 
 @media  screen and (max-width :900px ) {
